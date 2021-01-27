@@ -1,0 +1,9 @@
+/.vs
+/Release
+/Debug
+/TabletDriverGUI/bin/
+/TabletDriverGUI/obj/
+/TabletDriverService/Release/
+/TabletDriverService/Debug/
+/TabletDriverService/startuplog.txt
+TabletDriverService/config/usersettings.cfg
